@@ -1,2 +1,3 @@
 # Introdução a Gestão de Código Fonte
-## Aprendendo GIT
+
+- [x] Aprendendo GIT
